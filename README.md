@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vinittambe79" target="blank"><img src="https://img.shields.io/twitter/follow/vinittambe79?logo=twitter&style=for-the-badge" alt="vinittambe79" /></a> </p>
 
-- 🌱 I’m currently learning **Angular- A Typescript Based Web Application Framework.**
+- 🌱 I’m currently learning **Java DSA & Kotlin Programming Language.**
 
 - 💬 Ask me about **C,C++,Java,HTML,CSS,Javascript.**
 
