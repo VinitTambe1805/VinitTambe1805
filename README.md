@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **vinittambe1805@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+- ⚡ Fun fact **I think I have good sense of humour**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
