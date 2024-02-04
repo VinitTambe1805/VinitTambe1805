@@ -20,7 +20,7 @@
 <a href="https://twitter.com/vinittambe79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vinittambe79" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinittambe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinittambe" height="30" width="40" /></a>
 <a href="https://instagram.com/vinittambe79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vinittambe79" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@vinittambe_iot_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@vinittambe_iot_1" height="30" width="40" /></a>
+<a href="https://leetcode.com/VinitTambe/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/LeetCode_Logo_black_with_text.svg/2560px-LeetCode_Logo_black_with_text.svg.png" alt="VinitTambe" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
